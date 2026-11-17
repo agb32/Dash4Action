@@ -5,4 +5,9 @@ Dash4Action Resources
    :maxdepth: 1
 
    BaselineAssessmentOngoingMonitoringReporting
+   EnergySupply
+   CoolingSystemsHeatReuse
+   OptimisingEquipmentLifetimesEmbeddedEmissions
+   DataCentreDesignComputerSystemDesignProcurement
+   ComputerSystemOperations
 .. more filenames here!?!
