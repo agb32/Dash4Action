@@ -4,7 +4,8 @@ Dash4Action Resources
 .. toctree::
    :maxdepth: 1
 
-   BaselineAssessmentOngoingMonitoringReporting
+   BaselineAssessment
+   OngoingMonitoringReporting
    EnergySupply
    CoolingSystemsHeatReuse
    OptimisingEquipmentLifetimesEmbeddedEmissions
