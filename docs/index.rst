@@ -47,6 +47,25 @@ Time  Activity                           Speaker/Facilitator
 ===== ================================== ===================
 
 
+Dash4Action Introduction
+========================
+
+Greenhouse gas emissions and global warming put us in the midst of a global climate crisis. The 
+UK government has declared a global climate crisis and has committed to NetZero by 2050. UKRI 
+had committed to NetZero by 2040 or sooner but have more recently moderated their aims to 
+achieve NetZero in line with the UK Government target of 2050. Clearly UKRI Digital Research 
+Infrastructure must also achieve NetZero.
+
+The UKRI NetZero DRI Scoping Project followed by the NetZero DRI Vision and Expertise project 
+(NetDRIVE) are UKRI commissioned initiatives to plan and make progress towards UKRI’s NetZero 
+DRI goals and to provide thought leadership in this area.
+
+These initiatives have recommended that organisations assemble a Facility Action Plan to focus 
+work on and monitor progress towards NetZero operations. Dash4Action provides templates and 
+resources for you and your organisation to make rapid progress putting together your action 
+plan.
+
+
 .. toctree::
    :maxdepth: 2
 
