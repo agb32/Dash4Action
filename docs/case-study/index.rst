@@ -5,3 +5,4 @@ Dash4Action case studies
    :maxdepth: 1
 
    qmul
+   durham-power-cap
