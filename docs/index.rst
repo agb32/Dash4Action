@@ -40,7 +40,7 @@ Time  Activity                           Speaker/Facilitator
 13:30 Plenary Q&A and discussion         Alex Owen
 13:45 Action Plan Drafting Session       Dash4Action Team
 14:05 Dash4Action Case Studies           Alex Owen, Lorna Smith, Alastair Basden
-14:20 TBC: Embedded Carbon/Scope3        Michael Rudgyard
+14:20 Scope2 & Scope3 Emissions for Research Computing        Michael Rudgyard
 14:35 Action Plan Drafting Session       Dash4Action Team
 14:55 Wrapup and Feedback                Alex Owen
 15:00 Close                              
