@@ -16,6 +16,7 @@ Method
 ------------
 A single node from Durham’s internal cluster (COSMA5) was reserved for exclusive use in the study.  The node was a Dell PowerEdge R6625, with an AMD EPYC 9754 CPU and 1.5TB of RAM, running Rocky Linux 9.8.  Jobs were scheduled using the SLURM scheduler.
 Two key benchmarks were selected to test how different capabilities would be impacted by limiting the power draw of the node.  These benchmarks were:
+
 * HPL - High Performance Linpack.  This benchmark solves a dense linear system in double arithmetic, and is the basis for the Top500 HPC leaderboard.  The AMD-optimised binary version was used.
 * SWIFT - SPH with Inter-dependent Fine-grained Tasking.  A cosmology simulation which relies on floating point arithmetic, memory bandwidth, and data access.  Fixed initial conditions were used in order to assess the system under a reproducible "real-life" workload.  This was compiled for our test node using the Intel compiler and MPI implementation.
 
