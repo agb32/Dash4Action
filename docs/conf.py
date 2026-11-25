@@ -25,6 +25,7 @@ exclude_patterns = []
 
 html_theme = 'sphinx_rtd_theme'
 #html_logo = '_static/Dash4ActionWhite.svg'
+html_favicon = "_static/favicon.ico"
 html_logo = '_static/NetDRIVE-Dash4Action.png'
 
 html_theme_options = {
