@@ -6,3 +6,4 @@ Dash4Action case studies
 
    qmul
    durham-power-cap
+   durham-immersion-tank
