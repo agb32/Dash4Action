@@ -1,4 +1,4 @@
-QMUL case study
+QMUL Heat Recovery case study
 =====
 .. _abstract:
 
