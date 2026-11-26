@@ -5,6 +5,7 @@ Dash4Action Resources
    :maxdepth: 1
 
    BaselineAssessment
+   ScopeOneReductionElimination
    OngoingMonitoringReporting
    EnergySupply
    CoolingSystemsHeatReuse
