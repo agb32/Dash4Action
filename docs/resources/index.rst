@@ -11,6 +11,7 @@ Dash4Action Resources
    EnergySupply
    CoolingSystemsHeatReuse
    OptimisingEquipmentLifetimesEmbeddedEmissions
-   DataCentreDesignComputerSystemDesignProcurement
+   DataCentreDesign
+   ComputerSystemDesignProcurement
    ComputerSystemOperations
 .. more filenames here!?!
