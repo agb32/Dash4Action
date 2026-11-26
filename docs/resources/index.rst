@@ -6,7 +6,8 @@ Dash4Action Resources
 
    BaselineAssessment
    ScopeOneReductionElimination
-   OngoingMonitoringReporting
+   MeasuringReportingScope2
+   MeasuringReportingScope3
    EnergySupply
    CoolingSystemsHeatReuse
    OptimisingEquipmentLifetimesEmbeddedEmissions
