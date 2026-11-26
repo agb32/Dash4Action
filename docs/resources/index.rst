@@ -14,4 +14,5 @@ Dash4Action Resources
    DataCentreDesign
    ComputerSystemDesignProcurement
    ComputerSystemOperations
+   OtherResources
 .. more filenames here!?!
