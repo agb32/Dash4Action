@@ -8,7 +8,7 @@ electricity as the primary source of energy and a reliance on the
 electricity market moving to carbon free generation.
 
 Identification of Scope 1 Sources
-=================================
+----
 
 For typical DRI facilities sources of scope 1 emissions will broadly
 fall into the following categories:
@@ -19,10 +19,10 @@ fall into the following categories:
 - Facility owned/controlled petrol/diesel vehicles
 
 Reduction and Elimination Strategies
-====================================
+----
 
 Primary Electricity Generation
-------------------------------
+~~~~
 
 The main carbon reduction strategy here is to shift electricity usage to
 the Electricity Grid which has a lower carbon intensity. Where this is
@@ -67,17 +67,20 @@ Mitigation strategies may include:
   may be preferable to specifying a diesel/HVO generator.
 
 Heating Systems
----------------
+~~~~
 
 Data centres themselves generate heat so heat re-use is the main
 mitigation strategy to reduce scope 1 emissions. This is discussed in a
 Dash4Action case study.
 
 Facility vehicles
------------------
+~~~~
 
 Emissions here can be mitigated by reducing travel and potentially
 eliminated by migrating to an electric vehicle fleet.
+
+References
+----
 
 [1] Battery Storage Quotes, “How Long Do UK Power Cuts Last?”:
 https://batterystoragequotes.co.uk/blog/how-long-do-uk-power-cuts-last/
