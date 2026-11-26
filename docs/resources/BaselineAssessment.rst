@@ -11,7 +11,7 @@ emissions at all three scopes from other values we can measure/obtain
 directly.
 
 Carbon Emission Frameworks
-==========================
+----
 
 | Carbon emissions can be classified into a number of categories.
 | Simplistically Operational Carbon and Embodied Carbon.
@@ -54,7 +54,7 @@ Not all of these are relevant in a DRI context but more are than you
 might expect!
 
 UK Government GHG Conversion Factors for Company Reporting
-==========================================================
+----
 
 The UK Government Department for Energy Security and Net Zero (DESNZ)
 publishes a spreadsheet of conversion factors[2] which should be used
@@ -62,7 +62,7 @@ for statutory carbon reporting and more broadly as a useful reference of
 conversion factors within the UK.
 
 Grid Carbon Intensity factors
-=============================
+----
 
 | The Grid Carbon Intensity is a conversion factor between kWh and
   kgCO2e. For the baseline assessment it is sufficient to use DESNZ
@@ -74,7 +74,7 @@ Grid Carbon Intensity factors
   moving beyond the baseline assessment.
 
 Higher Education Supply Chain Emission Tool (HESCET)
-====================================================
+----
 
 The British Universities Finance Directors Group (BUFDG) has created a
 tool in the form of a spreadsheet that estimates scope 3 carbon
@@ -88,7 +88,7 @@ spreadsheet is probably the easiest way to obtain the tool. Direct
 access can be gained by registering as a member of BUFDG.
 
 Baseline Framework
-==================
+----
 
 For the baseline assessment it is probably sufficient to calculate
 operational carbon emissions and embodied carbon emissions as rough
@@ -96,7 +96,7 @@ proxies for Scope 2 and Scope 3 emissions. If your site has gas or
 diesel generators then you may also want to calculate Scope 1 emissions.
 
 Scope 1 Estimate
-----------------
+~~~~
 
 For the baseline assessment for a DRI we should focus on fossil fuel
 backup generators.
@@ -120,7 +120,7 @@ Diesel (average biofuel blend) can be used in a similar way to calculate
 your scope 1 generator emissions.
 
 Scope 2 Estimate
-----------------
+~~~~
 
 The DENEZ spreadsheet [2] also has a Grid Carbon intensity factor for
 statutory reporting. Thus to obtain your scope 2 emissions you can
@@ -150,7 +150,7 @@ correction factor as well as accounting for the PUE before applying the
 carbon intensity.
 
 Scope 3 Estimate
-----------------
+~~~~
 
 A proper analysis of scope 3 carbon emissions will require an inventory
 of equipment within the DRI that records the embodied carbon of each
@@ -175,7 +175,7 @@ which can be used for better future scope 3 emissions estimates. This
 will be discussed later.
 
 Conclusion
-==========
+----
 
 | This document sets out a basic introduction to categorisation of
   carbon emissions into scopes 1,2&3. It also sets out how to access the
@@ -185,7 +185,7 @@ Conclusion
   emissions estimates for their own datacenter/DRI.
 
 References
-==========
+----
 
 [1] World Resources Institute and World Business Council for Sustainable
 Development, “The Greenhouse Gas Protocol: A Corporate Accounting and
